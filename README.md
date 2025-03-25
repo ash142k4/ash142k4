@@ -26,7 +26,6 @@ I'm a passionate **AI & Data Science** student at **DY Patil College of Engineer
 🔹 **Description:** A full-stack e-commerce platform with authentication, payment integration, and user-friendly UI.
 
 ## 🏆 Achievements
-- **AWS re:Invent 2024 Recap Pune:** Ranked **20th** in the quiz competition 🏅
 - Completed **AWS APAC Solutions Architecture Simulation** on Forage
 - Built **LLM models** using **Hugging Face** and worked with **Amazon Nova Foundation Models**
 
