@@ -8,8 +8,8 @@ I'm a passionate **AI & Data Science** student . My interests span across **Mach
 - Advanced **DSA & System Design**
 
 ## 💡 Let's Connect!
-🔗 **LinkedIn:** [linkedin.com/in/ashutoshmore](#)  
-🔗 **GitHub:** [github.com/ashutoshmore](#)  
-📧 **Email:** your.email@example.com  
+🔗 **LinkedIn:** [www.linkedin.com/in/ashutosh-more-b4a5b7239](#)  
+🔗 **GitHub:** [https://github.com/ash142k4e](#)  
+📧 **Email:** moreashutosh883@gmail.com
 
 Let's build something amazing together! 🚀
